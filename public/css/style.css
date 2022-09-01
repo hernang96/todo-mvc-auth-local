@@ -1,6 +1,8 @@
 /* Styling for todos page */
 h1{
     color: red;
+    width: 80%;
+    margin: 0 auto;
 }
 .completed{
     text-decoration: line-through;
